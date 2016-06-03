@@ -4,3 +4,6 @@ class Tiger extends Cat {
         return "roar";
     }
 }
+
+export
+default Tiger
