@@ -1,12 +1,14 @@
-export
-default class Cat {
+class Cat {
     constructor(name, color) {
         this.name = name;
         this.color = color;
-        legs = 4;
-        tail = true;
+        var legs = 4;
+        var tail = true;
     }
-    says: function() {
+    says() {
         return "meow";
     }
 }
+
+export
+default Cat
