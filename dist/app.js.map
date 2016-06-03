@@ -1,0 +1,1 @@
+{"version":3,"sources":["../entities/Tiger.js"],"names":[],"mappings":";;;;;;;;;;IAAM,K;;;;;;;;;;;+BACK;AACH,mBAAO,MAAP;AACH;;;;EAHe,G","file":"app.js","sourcesContent":["class Tiger extends Cat {\n    says() {\n        return \"roar\";\n    }\n}"]}
